@@ -72,7 +72,7 @@ $TONE is the native utility token of the TonePilot ecosystem — where AI automa
 **📦 Token Details**
 - Token Name: TonePilot  
 - Symbol: $TONE  
-- Blockchain: Ethereum (ERC-20)  
+- Blockchain: Solana 
 - Total Supply: TBA  
 - Contract Address: TBA  
 
