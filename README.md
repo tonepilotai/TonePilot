@@ -130,7 +130,7 @@ $TONE token makes your AI productivity experience fully Web3-enabled.
 
 👥 **Community & Support**
 
-- **Discord**: Join our upcoming community on Discord  
+- **Discord**: Join our upcoming community on Discord (soon)
 - **Tutorial Hub**: Coming soon at [tonepilot.xyz/learn](https://tonepilot.xyz/learn)  
 - **Support**: Email us at support@tonepilot.xyz  
 
