@@ -38,6 +38,14 @@ Our AI engine understands your tone, your intent, and your schedule — allowing
 
 ---
 
+### ✨ Key Features
+
+| ✉️ **AI-Powered Summarization** | 🧠 **Tone-Aware Auto-Replies** | 📬 **Smart Inbox Management** | 🔒 **Privacy-First Architecture** |
+|----------------------------------|-------------------------------|-------------------------------|----------------------------------|
+| • Distill long threads into clear points  | • Smart, tone-matching replies       | • Categorize by priority & sender    | • End-to-end encryption             |
+| • Highlight what’s urgent & archive the rest | • Customize tone for context        | • Follow-up reminders & nudges      | • On-device tone training           |
+
+
 ✨ **Key Features**
 
 **Core Capabilities**
