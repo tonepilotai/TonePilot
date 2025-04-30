@@ -42,8 +42,8 @@ Our AI engine understands your tone, your intent, and your schedule — allowing
 
 | ✉️ **AI-Powered Summarization** | 🧠 **Tone-Aware Auto-Replies** | 📬 **Smart Inbox Management** | 🔒 **Privacy-First Architecture** |
 |----------------------------------|-------------------------------|-------------------------------|----------------------------------|
-| • Distill long threads into clear points  | • Smart, tone-matching replies       | • Categorize by priority & sender    | • End-to-end encryption             |
-| • Highlight what’s urgent & archive the rest | • Customize tone for context        | • Follow-up reminders & nudges      | • On-device tone training           |
+| • Instantly distill long email threads into clear action points  | • Compose smart, tone-matching responses       | • Categorize emails by priority, sender, and context    | • End-to-end encryption and on-device tone training             |
+| • Prioritize what's urgent and archive what's not | • Customize intent and voice for personal or professional replies        | • Get nudges for follow-ups and unresolved threads       | • Your data, your control           |
 
 
 ✨ **Key Features**
