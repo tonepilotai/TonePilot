@@ -26,4 +26,4 @@ Enable users to toggle a “Smart Send” option when generating replies. This f
 
 ---
 
-Contributed by: @your-username
+Contributed by: @sandrauveqn
