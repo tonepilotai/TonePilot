@@ -3,6 +3,7 @@
 # TonePilot
 
 Email Automation Meets the Blockchain  
+
 TonePilot isn’t just AI-powered — it’s crypto-enabled. The $TONE token brings real utility to communicators, giving you access, ownership, and rewards across your digital workflow.  
 Website: https://tonepilot.xyz
 
