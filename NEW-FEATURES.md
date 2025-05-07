@@ -1,3 +1,3 @@
-** NEW FEATURES **
+#  NEW FEATURES
 
-Use this branch to purpose new feature.
+Use this branch to propose a new feature.
