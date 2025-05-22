@@ -1,3 +1,4 @@
+
 ![image](https://github.com/user-attachments/assets/3080f919-900b-4435-9345-5bc8838df0c8)
 
 # TonePilot
@@ -62,7 +63,7 @@ $TONE is the native utility token of the TonePilot ecosystem — where AI automa
 **📦 Token Details**
 - Token Name: TonePilot  
 - Symbol: $TONE  
-- Blockchain: Solana 
+- Blockchain: Solana  
 - Total Supply: TBA  
 - Contract Address: TBA  
 
@@ -93,7 +94,12 @@ $TONE is the native utility token of the TonePilot ecosystem — where AI automa
 
 💰 **Email Automation Meets the Blockchain**
 
-$TONE token makes your AI productivity experience fully Web3-enabled.  
+TonePilot introduces a new email mode where users can **send and receive emails through the blockchain**, using $TONE tokens to unlock this decentralized messaging feature.
+
+**How It Works**
+- You need $TONE tokens to access blockchain-based email delivery.
+- AI reviews and enhances your message before it's cryptographically sent and verified on-chain.
+- Recipients retrieve email content from the blockchain, ensuring transparency and traceability.
 
 **Token Utilities**  
 🔑 Access advanced AI tools and automations  
@@ -165,4 +171,4 @@ We welcome community contributions!
 TonePilot is released under the MIT License. See LICENSE for details.
 
 © 2025 TonePilot. All rights reserved.  
-"Where AI meets your inbox."  
+"Where AI meets your inbox."
